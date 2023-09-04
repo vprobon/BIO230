@@ -5,7 +5,7 @@
 ### DETAILED TEACHING SCHEDULE
 
 ||Date|Content|Lecture|Reading material|
-|---|---|---|---|
+|---|---|---|---|---|
 |**Week 1**||Concepts in (Molecular/Cell) Biology|Lectures/01.Fundamentals (slides 1-23)|Understanding Bioinformatics p. 3-44|
 ||Monday, September 4 (04/09)||
 ||Wednesday, September 6 (06/09)||
