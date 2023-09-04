@@ -2,7 +2,7 @@
 
 ## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
 
-### DETAILED TEACHING SCHEDULE
+### DETAILED TEACHING SCHEDULE (Check regularly for updates)
 
 ||Date|Content|Lecture|Reading material|
 |---|---|---|---|---|
