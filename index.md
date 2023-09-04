@@ -2,8 +2,11 @@
 
 ## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
 
-##  Description 
-XXXXXX
+##  Description/Goals 
+This course will demonstrate, through Lectures and Laboratory work, how computational tools have revolutionized modern biological research with an emphasis on nucleic acid and protein sequence and structural analysis, also including an introduction to the analysis of complex biological systems. 
+Lectures cover digital literature and data resources for molecular biology and principles and methods used for: sequence alignment, motif finding, structural modeling, structure prediction and network modeling. Laboratory practicals include examples on power usage of state-of-the-art methods/tools related to the topics covered in the lectures, and student mini-research projects based on analysis of real-world datasets. 
+
+This course is **taught in English** and is available to ERASMUS+/YUFE students.
 
 ## General Information
 >Meetings for this class are organized as follows:
