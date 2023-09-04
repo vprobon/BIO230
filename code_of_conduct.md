@@ -13,4 +13,7 @@ By participating in this class, in addition to the constant efforts for fulfilli
 4. Co-operation between students in individual assignments is highly encouraged. This co-operation may include discussion of relevant topics and problem-solving approaches. However, it is expected that such submitted works are clearly the intellectual results of an individual's own effort. Regarding group assignments, the final submission is the result of the group's effort and should include a section clearly acknowledging the contribution of each group member in shaping the resulting report/presentation etc. 
 5. Any clarification, mentoring, and assistance regarding the BIO230 class (with respect to assignments, taught material etc.) should be sought directly from the instructor and/or the designated TAs. This can be achieved during the classes/tutorials, designated office hours and/or by personal appointment. 
 6. Seminar and project results will be presented in front of the class audience. Participation in these sessions is obligatory and is considered a part of the class. Students/groups should submit their reports (and ideally their presentations) for feedback at least one week before the scheduled presentation date. 
-7. Any incidence of suspected plagiarism or any other practices in contrast with the academic code of conduct will be subject to the existing rules of the UCY. If in doubt, please contact the course instructor.
+7. Any incidence of suspected plagiarism or any other practices in contrast with the academic code of conduct will be subject to the existing rules of the UCY.
+
+ 
+**If in doubt about any of the above (or any other issue), please contact the course instructor.**
