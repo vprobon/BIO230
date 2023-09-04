@@ -6,18 +6,18 @@
 
 ||Date|Content|Lecture|Reading material|
 |---|---|---|---|---|
-|**Week 1**|||Understanding Bioinformatics p. 3-44|
+|**Week 1**||||
 ||Monday, 04/09|Course Introduction, Concepts in (Molecular/Cell) Biology|Lectures/01.Fundamentals (slides 1-10)||
 ||Wednesday, 06/09|**No class**||
 ||Friday, 08/09|Concepts in (Molecular/Cell) Biology|Lectures/01.Fundamentals (slides 10-20)|Understanding Bioinformatics p. 3-44|
 |**Week 2**||||
 ||Monday, 11/09|An Overview of Bioinformatics|Lectures/01.Fundamentals (slides 24-35)|Understanding Bioinformatics p. 3-44|
 ||Wednesday, 13/09|Tutorial/Q&A session||
-||Friday, 15/09|Online Literature Resources for (Molecular) Biology|Lectures/02.InformationRetrievalBiomed_PartI|Optional: Chapter 1 from [Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008.](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)|
+||Friday, 15/09|Online Literature Resources for (Molecular) Biology, Part I: Information Retrieval Basics|Lectures/02.InformationRetrievalBiomed_PartI|Optional: Chapter 1 from [Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008.](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)|
 |**Week 3**|||
-||Monday, 18/09||
-||Wednesday, 20/09||
-||Friday, 22/09||
+||Monday, 18/09|Online Literature Resources for (Molecular) Biology, Part II: Selected Topics|Lectures/02.InformationRetrievalBiomed_PartI||
+||Wednesday, 20/09|Online Literature Resources for (Molecular) Biology, Part III: Pubmed|Online resource: [PubMed](https://pubmed.ncbi.nlm.nih.gov/)|
+||Friday, 22/09|Online Literature Resources for (Molecular) Biology, Part IV: Pubmed (cont'd)|Online resource: [PubMed](https://pubmed.ncbi.nlm.nih.gov/)|
 |**Week 4**|||
 ||Monday, 25/09||
 ||Wednesday, 27/09||
