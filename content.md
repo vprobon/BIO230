@@ -6,7 +6,7 @@
 
 ||Date|Content|
 |---|---|---|
-|**Week 1**|||
+|**Week 1**||Concepts in (Molecular/Cell) Biology|
 ||Monday, September 4 (04/09)||
 ||Wednesday, September 6 (06/09)||
 ||Friday, September 8 (08/09)||
