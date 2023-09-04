@@ -1,4 +1,4 @@
-# BIO230 - Introduction to Computational Biology
+# BIO230 - Introduction to Computational Biology - Home Page
 
 ## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
 ## Teaching assistants: *TBD*
