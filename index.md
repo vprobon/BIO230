@@ -18,7 +18,9 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 >**Tutorials/Practicals**: Wednesday, 18.00-19.00 (LRC005 - UCY Library Building).
 >
 >**Class web**: Class material on the web can be accessed at the
+
 >>Class web page @github.io: https://vprobon.github.io/BIO230/
+>>
 >>Teams group (BIO230-Fall2023) [only students enrolled in BIO230 have access]
 
 >**Final exam**: details (e.g. date, room etc) will be arranged by the Academic Affairs and Student Welfare Service (AASWS) of the University of Cyprus (https://ucyweb.ucy.ac.cy/fmweb/en/exams-schedule).
