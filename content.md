@@ -1,4 +1,4 @@
-# BIO230 - Introduction to Computational Biology - Content and Schedule
+# BIO230 - Introduction to Computational Biology - Content and Schedule (Fall 2023)
 
 ## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
 
@@ -7,56 +7,56 @@
 ||Date|Content|Lecture|Reading material|
 |---|---|---|---|---|
 |**Week 1**||Concepts in (Molecular/Cell) Biology|Lectures/01.Fundamentals (slides 1-23)|Understanding Bioinformatics p. 3-44|
-||Monday, September 4 (04/09)||
-||Wednesday, September 6 (06/09)||
-||Friday, September 8 (08/09)||
-|**Week 2**||An overview of Bioinformatics|Lectures/01.Fundamentals (slides 23-35)|
-||Monday, September 11 (11/09)||
-||Wednesday, September 13 (13/09)||
-||Friday, September 15 (15/09)||
+||Monday, 04/09||
+||Wednesday, 06/09||
+||Friday, 08/09||
+|**Week 2**||An overview of Bioinformatics|Lectures/01.Fundamentals (slides 24-35)|
+||Monday, 11/09||
+||Wednesday, 13/09||
+||Friday, 15/09||
 |**Week 3**|||
-||Monday, September 18 (18/09)||
-||Wednesday, September 20 (20/09)||
-||Friday, September 22 (22/09)||
+||Monday, 18/09||
+||Wednesday, 20/09||
+||Friday, 22/09||
 |**Week 4**|||
-||Monday, September 25 (25/09)||
-||Wednesday, September 27 (27/09)||
-||Friday, September 29 (29/09)||
+||Monday, 25/09||
+||Wednesday, 27/09||
+||Friday, 29/09||
 |**Week 5**|||
-||Monday, October 2 (02/10)||
-||Wednesday, October 4 (04/10)||
-||Friday, October 6 (06/10)||
+||Monday, 02/10||
+||Wednesday, 04/10||
+||Friday, 06/10||
 |**Week 6**|||
-||Monday, October 9 (09/10)||
-||Wednesday, October 11 (11/10)||
-||Friday, October 13 (13/10)||
+||Monday, 09/10||
+||Wednesday, 11/10||
+||Friday, 13/10||
 |**Week 7**|||
-||Monday, October 16 (16/10)||
-||Wednesday, October 18 (18/10)||
-||Friday, October 20 (20/10)||
+||Monday, 16/10||
+||Wednesday, 18/10||
+||Friday, 20/10||
 |**Week 8**|||
-||Monday, October 23 (23/10)||
-||Wednesday, October 25 (25/10)||
-||Friday, October 27 (27/10)||
+||Monday, 23/10||
+||Wednesday, 25/10||
+||Friday, 27/10||
 |**Week 9**|||
-||Monday, October 30 (30/10)||
-||Wednesday, November 1 (01/11)||
-||Friday, November 3 (03/11)||
+||Monday, 30/10||
+||Wednesday, 01/11||
+||Friday, 03/11||
 |**Week 10**|||
-||Monday, November 6 (06/11)||
-||Wednesday, November 8 (08/11)||
-||Friday, November 10 (10/11)||
+||Monday, 06/11||
+||Wednesday, 08/11||
+||Friday, 10/11||
 |**Week 11**|||
-||Monday, November 13 (13/11)||
-||Wednesday, November 15 (15/11)||
-||Friday, November 17 (17/11)||
+||Monday, 13/11||
+||Wednesday, 15/11||
+||Friday, 17/11||
 |**Week 12**|||
-||Monday, November 20 (20/11)||
-||Wednesday, November 22 (22/11)||
-||Friday, November 24 (24/11)||
+||Monday, 20/11||
+||Wednesday, 22/11||
+||Friday, 24/11||
 |**Week 13**|||
-||Monday, November 27 (27/11)||
-||Wednesday, November 29 (29/11)||
+||Monday, 27/11||
+||Wednesday, 29/11||
 
 
 
