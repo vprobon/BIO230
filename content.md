@@ -28,7 +28,7 @@
 ||Friday, 06/10||
 |**Week 6**|**Biological Databases**||
 ||Monday, 09/10||
-||Wednesday, 11/10||
+||Wednesday, 11/10|**Midterm Exam (Tentative)**|
 ||Friday, 13/10||
 |**Week 7**|**Biomolecular Sequence Analysis**||
 ||Monday, 16/10||
@@ -57,6 +57,9 @@
 |**Week 13**|**An overview of Computational Systems Biology**||
 ||Monday, 27/11||
 ||Wednesday, 29/11||
+||||
+|||**Final Exam (Date to be confirmed)**|
+
 
 
 
