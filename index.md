@@ -1,6 +1,8 @@
 # BIO230 - Introduction to Computational Biology
 
 ## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
+## Teaching assistants: *TBD*
+
 
 ##  Description/Goals 
 This course will demonstrate, through Lectures and Laboratory work, how computational tools have revolutionized modern biological research with an emphasis on nucleic acid and protein sequence and structural analysis, also including an introduction to the analysis of complex biological systems. 
@@ -16,7 +18,9 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 >**Tutorials/Practicals**: Wednesday, 18.00-19.00 (LRC005 - UCY Library Building).
 >
 
->**Final exam** details (e.g. date, room etc) will be arranged by the Academic Affairs and Student Welfare Service (AASWS) of the University of Cyprus (https://ucyweb.ucy.ac.cy/fmweb/en/exams-schedule). 
+>**Final exam**: details (e.g. date, room etc) will be arranged by the Academic Affairs and Student Welfare Service (AASWS) of the University of Cyprus (https://ucyweb.ucy.ac.cy/fmweb/en/exams-schedule).
+>
+>**Note**: According to the UCY regulations class attendance is *obligatory*.
 
 
 ## [Content and Schedule](content.md)
