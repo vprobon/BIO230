@@ -32,5 +32,6 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 ## [Assessment](assessment.md)
 ## [Teaching material](material.md)
 ## [Code of conduct](conduct.md)
+## [Communication/Contact](contact.md)
 
 
