@@ -10,7 +10,7 @@
 ||Monday, 04/09|Course Introduction|This website site, MS TEAMS environment||
 ||Wednesday, 06/09|**No class**||
 ||Friday, 08/09|Concepts in (Molecular/Cell) Biology|Lectures/01.Fundamentals (slides 1-23)|Understanding Bioinformatics p. 3-44|
-|**Week 2**|**Introduction cont's and Literature resources**|||
+|**Week 2**|**Introduction cont'd and Literature resources**|||
 ||Monday, 11/09|An Overview of Bioinformatics|Lectures/01.Fundamentals (slides 24-35)|Understanding Bioinformatics p. 3-44|
 ||Wednesday, 13/09|Tutorial/Q&A session||
 ||Friday, 15/09|Online Literature Resources for (Molecular) Biology, Part I: Information Retrieval Basics|Lectures/02.InformationRetrievalBiomed_PartI|Optional: Chapter 1 from [Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008.](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)|
