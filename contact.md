@@ -7,12 +7,17 @@
 **Office Hours**: Monday and Thursday 12:00 – 13:00
 
 **Office Location**: 
-048, Building FST02/ΘΕΕ02, level 0 ()
->>1 University Avenue
->>University Building FST02
->>Room 045,  Level 0, Wing H
->>2109 Aglantzia, Nicosia
->>Cyprus 
+
+>1 University Avenue
+
+>University Building FST02
+
+>Room 045,  Level 0, Wing H
+
+>2109 Aglantzia, Nicosia
+
+>Cyprus 
+
 [Find us on Google Maps](https://goo.gl/maps/sQTr1aLCmsPapFe66)      
 
 **email**: promponas.vasileios@ucy.ac.cy or vasilis.promponas@gmail.com 
