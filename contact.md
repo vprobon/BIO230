@@ -4,18 +4,14 @@
 
 
 ### Instructor
-**Office Hours**: Monday and Thursday 12:00 – 13:00
+**Office Hours**: Monday and Thursday 12:00 – 13:00 (other times by appointment)
 
 **Office Location**: 
 
 >1 University Avenue
-
 >University Building FST02
-
 >Room 045,  Level 0, Wing H
-
 >2109 Aglantzia, Nicosia
-
 >Cyprus 
 
 [Find us on Google Maps](https://goo.gl/maps/sQTr1aLCmsPapFe66)      
@@ -29,4 +25,4 @@ Details will soon be available here.
 
 
 
-[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) &copy 2005-2023.
+Copyright [Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2023.
