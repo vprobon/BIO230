@@ -25,4 +25,4 @@ Details will soon be available here.
 
 
 
-Copyright [Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2023.
+[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2023.

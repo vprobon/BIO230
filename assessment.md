@@ -22,3 +22,6 @@ In this case, the final grade is computed as
 **Final Grade = x\*PR + (1-x) \* (0.05\*AP + 0.15\*HW + 0.2*SE + 0.2\*ME +0.4\*FE)**
 
 where **x** corresponds to the weight of the independent project that will be decided between individual students and the instructor, based on the workload of the assigned project.
+
+
+[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2023.
