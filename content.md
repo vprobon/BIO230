@@ -19,8 +19,8 @@
 ||Wednesday, 20/09|Online Literature Resources for (Molecular) Biology, Part III: Pubmed|Online resource: [PubMed](https://pubmed.ncbi.nlm.nih.gov/)|
 ||Thursday, 21/09|Online Literature Resources for (Molecular) Biology, Part IV: Pubmed (cont'd)|Online resource: [PubMed](https://pubmed.ncbi.nlm.nih.gov/)|
 |**Week 4**|**Biological Databases**||
-||Monday, 25/09||
-||Wednesday, 27/09||
+||Monday, 25/09|Part I: Brief Introduction on (Biological) Databases, Primary and Secondary Databases|Lectures/04.BiologicalDatabases\-PartI|Online Resources: [DOE JGI- Genomes Online Database](https://gold.jgi.doe.gov/), [Nucleic Acids Research Annual database issue](https://academic.oup.com/nar/search-results?f\_TocHeadingTitle=Database+Issue)|
+||Wednesday, 27/09|Tutorial/Q&A session|
 ||Thursday, 28/09||
 |**Week 5**|**Biological Databases**||
 ||Monday, 02/10||
