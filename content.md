@@ -28,7 +28,7 @@
 ||Thursday, 05/10|Part IV: UniProt|Lectures/07.BiologicalDatabases\-PartIV-UniProt|Online resource: [UniProt](https://uniprot.org)|
 |**Week 6**|**Biological Databases**||
 ||Monday, 09/10|Hands on Practice on UniProt database|Self assessment quizes: [Quiz 1](https://www.ebi.ac.uk/training/online/courses/uniprot-quick-tour/); [Quiz 2](https://www.ebi.ac.uk/training/online/courses/uniprot-exploring-protein-sequence-and-functional-info/)||
-||Wednesday, 11/10|**Midterm Exam (Tentative)**| 
+||Wednesday, 11/10|**Midterm Exam (Fixed)**|Material to be covered by Thursday, 05/10 will be examined (material covered in both lectures and practical sessions/tutorials)||
 ||Thursday, 12/10||
 |**Week 7**|**Biomolecular Sequence Analysis**||
 ||Monday, 16/10||
