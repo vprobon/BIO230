@@ -29,7 +29,7 @@
 |**Week 6**|**Biological Databases**||
 ||Monday, 09/10|Hands on Practice on UniProt database|Self assessment quizes: [Quiz 1](https://www.ebi.ac.uk/training/online/courses/uniprot-quick-tour/); [Quiz 2](https://www.ebi.ac.uk/training/online/courses/uniprot-exploring-protein-sequence-and-functional-info/)||
 ||Wednesday, 11/10|**Midterm Exam (Fixed)**|Material to be covered by Thursday, 05/10 will be examined (material covered in both lectures and practical sessions/tutorials)||
-||Thursday, 12/10|Part V: Structural Databases (PDB, SCOP, CATH, AlphaFoldDB)|Lectures/08.BiologicalDatabases-V-Structure\_and\_DBs|Understanding Bioinformatics p. 25-44|Online resources: [RCSB PDB](https://www.rcsb.org/), [SCOP](https://scop.mrc-lmb.cam.ac.uk/), [CATH](https://www.cathdb.info/), [AlphaFoldDB](https://alphafold.ebi.ac.uk/)|
+||Thursday, 12/10|Part V: Structural Databases (PDB, SCOP, CATH, AlphaFoldDB)|Lectures/08.BiologicalDatabases-V-Structure\_and\_DBs|Understanding Bioinformatics p. 25-44. <BR> Online resources: [RCSB PDB](https://www.rcsb.org/), [SCOP](https://scop.mrc-lmb.cam.ac.uk/), [CATH](https://www.cathdb.info/), [AlphaFoldDB](https://alphafold.ebi.ac.uk/)|
 |**Week 7**|**Biomolecular Sequence Analysis**||
 ||Monday, 16/10||
 ||Wednesday, 18/10||
