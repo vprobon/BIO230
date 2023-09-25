@@ -21,7 +21,7 @@
 |**Week 4**|**Biological Databases**||
 ||Monday, 25/09|Part I: Brief Introduction on (Biological) Databases, Primary and Secondary Databases|Lectures/04.BiologicalDatabases\-PartI|Online Resources: [DOE JGI- Genomes Online Database](https://gold.jgi.doe.gov/), [Nucleic Acids Research Annual database issue](https://academic.oup.com/nar/search-results?f\_TocHeadingTitle=Database+Issue)|
 ||Wednesday, 27/09|Tutorial/Q&A session|
-||Thursday, 28/09|Part II: A brief history, Features of Biological DBs, Important Providers|Lectures/05.BiologicalDatabases\-PartII|Online Resources: [Part I: Brief Introduction on (Biological) Databases, Primary and Secondary Databases|Lectures/05.BiologicalDatabases\-PartII]|Online resource: [NAR Database Summary Paper Category List](https://www.oxfordjournals.org/nar/database/c/); Major Providers: [NCBI](https://www.ncbi.nlm.nih.gov), [EBI](https://www.ebi.ac.uk), [SIB](https://www.sib.swiss), [NGDC-CNCB](https://ngdc.cncb.ac.cn)|
+||Thursday, 28/09|Part II: A brief history, Features of Biological DBs, Important Providers|Lectures/05.BiologicalDatabases\-PartII|Online resource: [NAR Database Summary Paper Category List](https://www.oxfordjournals.org/nar/database/c/) Major Providers: [NCBI](https://www.ncbi.nlm.nih.gov), [EBI](https://www.ebi.ac.uk), [SIB](https://www.sib.swiss), [NGDC-CNCB](https://ngdc.cncb.ac.cn)|
 |**Week 5**|**Biological Databases**||
 ||Monday, 02/10|Part III: Sequence Databases|Lectures/06.BiologicalDatabases\-PartIII|Online Resources: [GenBank](https://www.ncbi.nlm.nih.gov/genbank/), [EMBL/ENA](https://www.ebi.ac.uk/ena/browser/home), [DDBJ](https://www.ddbj.nig.ac.jp/ddbj/index-e.html)|
 ||Wednesday, 04/10|Tutorial/Q&A session|
