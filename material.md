@@ -1,4 +1,4 @@
-# BIO230 - Introduction to Computational Biology - Teaching Material (Fall 2023)
+# BIO230 - Introduction to Computational Biology - Teaching Material (Spring 2026)
 
 ## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [promponas.vasileios@ucy.ac.cy](mailto:promponas.vasileios@ucy.ac.cy)
 
