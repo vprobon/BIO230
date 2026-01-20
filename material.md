@@ -1,6 +1,6 @@
 # BIO230 - Introduction to Computational Biology - Teaching Material (Fall 2023)
 
-## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
+## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [promponas.vasileios@ucy.ac.cy](mailto:promponas.vasileios@ucy.ac.cy)
 
 ### TEACHING MATERIAL (Check regularly for updates)
 
@@ -27,15 +27,15 @@ Author: Jonathan Pevsner
 Wiley-Liss, 2003
 ISBN 0 47121 004 8
 
-4. "Bioinformatics for dummies"
+4. Bioinformatics for dummies
 Authors: Jean-Michel Claverie and Cedric Notredame
 Wiley Publishing, Inc
 ISBN 0 7645 1696 5
 
-5. "Structural Bioinformatics"
+5. Structural Bioinformatics
 Author: Philip E. Bourne, Helge Weissig
 Wiley-Liss
 ISBN 0471 20199 5
 
 
-[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2023.
+[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2026.
