@@ -1,6 +1,6 @@
 # BIO230 - Introduction to Computational Biology - Assessment (Fall 2023)
 
-## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
+## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [promponas.vasielios@ucy.ac.cy](mailto:promponas.vasielios@ucy.ac.cy)
 
 The final class grade results using several different assessment criteria, as follows:
 
@@ -24,4 +24,4 @@ In this case, the final grade is computed as
 where **x** corresponds to the weight of the independent project that will be decided between individual students and the instructor, based on the workload of the assigned project.
 
 
-[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2023.
+[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2026.
