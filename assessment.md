@@ -1,4 +1,4 @@
-# BIO230 - Introduction to Computational Biology - Assessment (Fall 2023)
+# BIO230 - Introduction to Computational Biology - Assessment (Spring 2026)
 
 ## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [promponas.vasielios@ucy.ac.cy](mailto:promponas.vasielios@ucy.ac.cy)
 
