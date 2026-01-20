@@ -15,7 +15,7 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 >
 >**Lectures**: Tuesday and Friday, 09.00-10.30 (LRC005 - UCY Library Building).
 >
->**Tutorials/Practicals**: Wednesday, 17.00-18.00 (LRC005 - UCY Library Building).
+>**Tutorials/Practicals**: Wednesday, 10.00-11.00 (LRC005 - UCY Library Building).
 >
 >**Class web**: Class material on the web can be accessed at the
 
