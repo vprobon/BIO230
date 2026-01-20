@@ -1,6 +1,6 @@
 # BIO230 - Introduction to Computational Biology - Code of Conduct
 
-## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
+## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [promponas.vasileios@ucy.ac.cy](mailto:promponas.vasileios@ucy.ac.cy)
 
 By participating in this class, in addition to the constant efforts for fulfilling the learning outcomes associated with the course, 
 we declare our committment in maintaining an environment which will assist all of us (students and teaching staff) to fulfil our goals, 
@@ -17,9 +17,10 @@ according to the established academic norms. In all activities related to this c
 5. Any clarification, mentoring, and assistance regarding the BIO230 class (with respect to assignments, taught material etc.) should be sought directly from the instructor and/or the designated TAs. This can be achieved during the classes/tutorials, designated office hours and/or by personal appointment. 
 6. Seminar and project results will be presented in front of the class audience. Participation in these sessions is obligatory and is considered a part of the class. Students/groups should submit their reports (and ideally their presentations) for feedback at least one week before the scheduled presentation date. 
 7. Any incidence of suspected plagiarism or any other practices in contrast with the academic code of conduct will be subject to the existing rules of the UCY.
+8.  **Important note:** Any use of AI systems should adhere to the recently announced [UCY Guidelines](https://www.ucy.ac.cy/ai/ucy-guidelines/?lang=en).  
 
  
 **If in doubt about any of the above (or any other issue), please contact the course instructor.**
 
 
-[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2023.
+[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2026.
