@@ -15,24 +15,26 @@ Author: Marketa Zvelebil and Jeremy O. Baum
 Garland Science
 ISBN-13:978 0 8153 4024 9
 
-*Note:* You may use the UCY library entry for this book to get online access.
+*Note:* Available online through the UCY library.
 
 2. Bioinformatics: Sequence and Genome Analysis (2nd ed)
 Author: David W. Mount
 CSHL Press, 2004
 ISBN 0 87969 597 8
+*Note:*  Available online through the UCY library (https://ebookcentral.proquest.com/lib/ucy/detail.action?docID=3137905).
 
-3. Bioinformatics and functional genomics
-Author: Jonathan Pevsner
-Wiley-Liss, 2003
-ISBN 0 47121 004 8
-
-4. Bioinformatics for dummies
+4. Bioinformatics and Functional Genomics (3d ed).
+Author: Pevsner, Jonathan
+ISBN: 978-1-118-58178-0; 978-1-118-58176-6
+Publisher: Wiley-Blackwell
+*Note:*  Available online through the UCY library (https://ebookcentral.proquest.com/lib/ucy/detail.action?docID=7103826#).
+ 
+5. Bioinformatics for dummies
 Authors: Jean-Michel Claverie and Cedric Notredame
 Wiley Publishing, Inc
 ISBN 0 7645 1696 5
 
-5. Structural Bioinformatics
+6. Structural Bioinformatics
 Author: Philip E. Bourne, Helge Weissig
 Wiley-Liss
 ISBN 0471 20199 5
