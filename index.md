@@ -1,7 +1,7 @@
 # BIO230 - Introduction to Computational Biology - Home Page
 
-## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
-## Teaching assistants: *TBD*
+## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [promponas.vasileios@ucy.ac.cy](mailto:promponas.vasileios@ucy.ac.cy)
+## Teaching assistant: Mr Sotiris Poyiadjis, PhD student [poyiadjis.sotiris@ucy.ac.cy](poyiadjis.sotiris@ucy.ac.cy).
 
 
 ##  Description/Goals 
@@ -13,13 +13,13 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 ## General Information
 >Meetings for this class are organized as follows:
 >
->**Lectures**: Monday and Thursday, 13.30-15.00 (LRC005 - UCY Library Building).
+>**Lectures**: Tuesday and Friday, 09.00-10.30 (LRC005 - UCY Library Building).
 >
->**Tutorials/Practicals**: Wednesday, 18.00-19.00 (LRC005 - UCY Library Building).
+>**Tutorials/Practicals**: Wednesday, 17.00-18.00 (LRC005 - UCY Library Building).
 >
 >**Class web**: Class material on the web can be accessed at the
 
->>Class web page @github.io: https://vprobon.github.io/BIO230/
+>>Class web page @github.io: https://vprobon.github.io/BIO230/ (this page)
 >>
 >>Teams group (BIO230-Fall2023) [only students enrolled in BIO230 have access]
 
@@ -35,4 +35,4 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 ## [Communication/Contact](contact.md)
 
 
-[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2023.
+[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2026.
