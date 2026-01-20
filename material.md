@@ -21,20 +21,22 @@ ISBN-13:978 0 8153 4024 9
 Author: David W. Mount
 CSHL Press, 2004
 ISBN 0 87969 597 8
-*Note:*  Available online through the UCY library (https://ebookcentral.proquest.com/lib/ucy/detail.action?docID=3137905).
+
+*Note:*  Available online through the UCY library [https://ebookcentral.proquest.com/lib/ucy/detail.action?docID=3137905](https://ebookcentral.proquest.com/lib/ucy/detail.action?docID=3137905).
 
 4. Bioinformatics and Functional Genomics (3d ed).
 Author: Pevsner, Jonathan
 ISBN: 978-1-118-58178-0; 978-1-118-58176-6
 Publisher: Wiley-Blackwell
-*Note:*  Available online through the UCY library (https://ebookcentral.proquest.com/lib/ucy/detail.action?docID=7103826#).
+
+*Note:*  Available online through the UCY library [https://ebookcentral.proquest.com/lib/ucy/detail.action?docID=7103826#](https://ebookcentral.proquest.com/lib/ucy/detail.action?docID=7103826#).
  
-5. Bioinformatics for dummies
+6. Bioinformatics for dummies
 Authors: Jean-Michel Claverie and Cedric Notredame
 Wiley Publishing, Inc
 ISBN 0 7645 1696 5
 
-6. Structural Bioinformatics
+7. Structural Bioinformatics
 Author: Philip E. Bourne, Helge Weissig
 Wiley-Liss
 ISBN 0471 20199 5
